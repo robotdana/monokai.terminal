@@ -212,6 +212,10 @@
 		</dict>
 		<dict>
 			<key>ProcessName</key>
+			<string>bash</string>
+		</dict>
+		<dict>
+			<key>ProcessName</key>
 			<string>telnet</string>
 		</dict>
 		<dict>
